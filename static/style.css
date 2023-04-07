@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    font-family: 'Gaegu', cursive;
+    font-size: x-large;
+}
+
+#results{
+    font-size: 100px;
+    color: crimson;
+}
