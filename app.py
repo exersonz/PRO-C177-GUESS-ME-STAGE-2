@@ -7,7 +7,7 @@ app = Flask(__name__)
 # words list
 words = [
     {
-        "inputs": 6,
+        "inputs": 8,
         "hint": "MLB",
         "word": "baseball"
     },
